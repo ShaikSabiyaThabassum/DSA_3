@@ -1,0 +1,3 @@
+Machine Learning
+Machine Learning is a subset of Artificial Intelligence.
+It learns patterns from data.

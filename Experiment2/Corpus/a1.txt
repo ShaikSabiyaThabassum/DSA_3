@@ -1,0 +1,3 @@
+Data Structures
+Data structures are fundamental concepts in computer science.
+Arrays, linked lists, stacks and queues are commonly used data structures.
